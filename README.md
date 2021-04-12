@@ -1,6 +1,6 @@
 # BrickBreaker
 
-<img align=center src="output.png">
+<img src="output.png" width="400" height="400">
 
 <p>A simple brick breaker game made using Java.</p>
 
